@@ -27,6 +27,8 @@ I am Nelson Mutinda Mwanzia, a software engineer student at Moringa School with 
 [![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonmutindamwanzia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ![Nelson's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelsonmutindamwanzia&layout=compact&theme=radical)
+<br/><br/>
+[![Nelson's GitHub Streak](https://streak-stats.demolab.com/?user=nelsonmutindamwanzia&theme=radical)](https://git.io/streak-stats)
 
 <!-- Here are some ideas to get you started:
 
