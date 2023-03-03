@@ -7,7 +7,7 @@ I am Nelson Mutinda Mwanzia, a Full Stack Web Developer with a Bachelors degree 
 - 🌱 I’m currently learning **Ruby on Rails**
 - ⚡ Fun fact: I enjoy **playing video games** and **going out into the woods for walks**
 - 📫 Reach Me: Through either my socials or via my email address; nmutinda02@gmail.com.
-### Links to my socials 😄
+### Links to my socials 😄:
 <p align="left">
     <a href="https://twitter.com/mu_tinda">
         <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
