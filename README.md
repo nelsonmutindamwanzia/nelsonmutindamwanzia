@@ -13,14 +13,14 @@ I am Nelson Mutinda Mwanzia, a Full Stack Web Developer with a Bachelors degree 
         <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nelson-mwanzia/">
-        <img align="" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://web.facebook.com/bonzaicf">
-        <img align="" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        <img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
 </p>
 
-<br/><br/>
+### These are my Github Stats:
 [![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonmutindamwanzia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ![Nelson's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelsonmutindamwanzia&layout=compact&theme=radical)
