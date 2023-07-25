@@ -4,7 +4,7 @@
 
 I am Nelson Mutinda Mwanzia, a Full Stack Web Developer with a Bachelors degree in Information Technology. I am most passionate about building web applications to provide solutions to tech related problems. I am eager to learn and ready to explore. 
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **ExpressJS**
 - ⚡ Fun fact: I enjoy **playing video games** and **going out into the woods for walks**
 - 📫 Reach Me: Through either my socials or via my email address; nmutinda02@gmail.com.
 ### Links to my socials 😄:
