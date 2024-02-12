@@ -20,10 +20,12 @@ I am Nelson Mutinda Mwanzia, a Full Stack Web Developer with a Bachelors degree 
     </a>
 </p>
 
+### Total Time Spent Coding (since 10/01/2024):
+[![wakatime](https://wakatime.com/badge/user/018cf488-9246-4add-b258-8b0308a2ede8.svg)](https://wakatime.com/@018cf488-9246-4add-b258-8b0308a2ede8)
 ### These are my Github Stats:
 [![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonmutindamwanzia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ![Nelson's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelsonmutindamwanzia&layout=compact&theme=radical)
 <br/><br/>
-<!-- [![Nelson's GitHub Streak](https://streak-stats.demolab.com/?user=nelsonmutindamwanzia&theme=radical)](https://git.io/streak-stats) -->
-[![My GitHub Streak](https://streak-stats.demolab.com?user=nelsonmutindamwanzia&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Nelson's GitHub Streak](https://streak-stats.demolab.com/?user=nelsonmutindamwanzia&theme=radical)](https://git.io/streak-stats)
+<!-- [![My GitHub Streak](https://streak-stats.demolab.com?user=nelsonmutindamwanzia&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
