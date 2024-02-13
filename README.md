@@ -22,11 +22,18 @@ I am Nelson Mutinda Mwanzia, a Full Stack Web Developer with a Bachelors degree 
 
 ### Total Time Spent Coding (since 10/01/2024):
 [![wakatime](https://wakatime.com/badge/user/018cf488-9246-4add-b258-8b0308a2ede8.svg)](https://wakatime.com/@018cf488-9246-4add-b258-8b0308a2ede8)
+
+### Total Profile Views:
+![Profile View Counter](https://komarev.com/ghpvc/?username=nelsonmutindamwanzia&style=for-the-badge&base=17)
+
 ### These are my Github Stats:
 [![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonmutindamwanzia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 ![Nelson's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelsonmutindamwanzia&layout=compact&theme=radical)
 <br/><br/>
 [![Nelson's GitHub Streak](https://streak-stats.demolab.com/?user=nelsonmutindamwanzia&theme=radical)](https://git.io/streak-stats)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- # Made with Love by Nelson Mutinda Mwanzia -->
