@@ -28,4 +28,5 @@ I am Nelson Mutinda Mwanzia, a Full Stack Web Developer with a Bachelors degree 
 ![Nelson's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nelsonmutindamwanzia&layout=compact&theme=radical)
 <br/><br/>
 [![Nelson's GitHub Streak](https://streak-stats.demolab.com/?user=nelsonmutindamwanzia&theme=radical)](https://git.io/streak-stats)
-<!-- [![My GitHub Streak](https://streak-stats.demolab.com?user=nelsonmutindamwanzia&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
+
+<!-- # Made with Love by Nelson Mutinda Mwanzia -->
